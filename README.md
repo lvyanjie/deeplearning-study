@@ -13,6 +13,12 @@
 - VGG16
 - Xception
 
+### object-detection
+- RCNN
+
+### object-tracking
+- SimaFC
+
 ### 模型验证(classificaiton) 
 模型验证.ipynb  
 需要将模型代码整合到一个py文件中，将模型代码文件导入到脚本中，如：  
